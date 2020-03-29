@@ -1,6 +1,6 @@
 # SE_Project
  <----------------------------------------------------------->
-  Two types of nodes :- Intersection and Destinations
+
   Nodes named as integers
 
   Admin part functionalities(admin.h):
